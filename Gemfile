@@ -11,6 +11,8 @@ gem 'sqlite3', '~> 1.4'
 
 
 gem 'simple_form'
+# a gem to help with user management
+gem 'devise'
 
 
 gem 'puma', '~> 4.1'
